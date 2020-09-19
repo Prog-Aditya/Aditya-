@@ -1,4 +1,4 @@
-Grading at Sat Sep 19 07:02:18 UTC 2020
+Grading at Sat Sep 19 07:13:07 UTC 2020
 Checking code1.c for legal syntax
 temp.c: In function ‘max’:
 temp.c:17:1: error: ISO C forbids nested functions [-Werror=pedantic]
